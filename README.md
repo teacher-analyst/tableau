@@ -18,7 +18,14 @@ https://public.tableau.com/views/Module18_Challenge_16966412707470/Map_StartStat
 
 **Please view visualisations and dashboards in full screen.**
 
-### Analysis 
+## Analysis 
+
+The following analysis is about citibike data that was collected from May to July in 2023 in Jersey City. The data does inlude some bike stations located in New York City due to bike journeys beginning in Jersey City and crossing the Hudson River and ending the journey in New York City. 
+
+###Dashboard 
 
 
+###City Official Requested Maps 
+
+###Other Visualsations 
 

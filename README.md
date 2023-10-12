@@ -14,7 +14,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 4. Create your final presentation in Tableau in the form of dashboards and stories. 
 
 ### Link to My Tableau Public Workbook 
-https://public.tableau.com/shared/8GP6F2Z23?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/Module18_Challenge_16966412707470/Map_StartStationPopularity?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
 **Please view visualisations and dashboards in full screen.**
 

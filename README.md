@@ -30,6 +30,7 @@ The most popular time the bikes are used during the day is first at 8 am and in 
 
 The second dashboard takes a closer look at the type of users that use citibikes in Jersey City. Approximately 71% of users are members and the rest are casual users. Interesting trends are noticed with the spidermap that shows distance of trip by type of user. When the day slider is adjusted for the month of May, two things can be noticed. Members is Jersey City cross the river to New York City more as the month progresses, for instance there are more river crossings in the middle of the month comapred to the beginning. Also, casual users do cross the river but these trips are considerably less compared with trips taken by members.
 
-In addition, with regards to the number trips taken members and casual users per month, the month of July had the highest casual user numbers at approximatey 1700. May had the lowest trips by casual users at 345 trips. The highest number of trips taken by members was in May at 2731 trips. May also had the lowest number of trips taken by a member at 845 trips. June had low drops in trip numbers taken by members, the lowest number of trips being 1765 trips.
+In addition, with regards to the number trips taken by members and casual users per month, the month of July had the highest casual user numbers at approximatey 1700. May had the lowest trips by casual users at 345 trips. The highest number of trips taken by members was in May at 2731 trips. May also had the lowest number of trips taken by a member at 845 trips. June had low drops in trip numbers taken by members, the lowest number of trips being 1765 trips. 
+
 ### Other Visualisations 
 

@@ -23,6 +23,9 @@ https://public.tableau.com/views/Module18_Challenge_16966412707470/Map_StartStat
 The following analysis is about citibike data that was collected from May to July in 2023 in Jersey City. The data does inlude some bike stations located in New York City due to bike journeys beginning in Jersey City and crossing the Hudson River and ending the journey in New York City. 
 
 ### Dashboards
+The first dashboard, Starting the Journey, displays information about starting the bike journey in Jersey City. Just under 300, 000 trips were taken between May and July and the average distance travelled was 0.73 miles.
+
+
 
 
 
